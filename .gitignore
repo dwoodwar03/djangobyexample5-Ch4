@@ -1,2 +1,4 @@
 env/
 .idea/
+/bookmarks/db.sqlite3
+/bookmarks/media/users
