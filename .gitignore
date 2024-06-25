@@ -2,3 +2,6 @@ env/
 .idea/
 /bookmarks/db.sqlite3
 /bookmarks/media/users
+/bookmarks/.env
+/bookmarks/cert.crt
+/bookmarks/cert.key
